@@ -18,7 +18,7 @@
 * Power BI
 * Power Query
 * Dax Query
-* Data modeling
+* Data modelling
 
 
 ## **Cleaning and Analyzing using Power Query**
